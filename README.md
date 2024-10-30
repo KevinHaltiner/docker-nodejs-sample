@@ -14,4 +14,4 @@
 5. Werte wie im Bild unten angeben
 ![werte](./angaben.png)
 6. Im Bash `docker compose up --build` ausführen
-7. Besuche diesen Link http://localhost:3000/
+7. Besuche diesen Link [http://localhost:3000/](http://localhost:3000/)
